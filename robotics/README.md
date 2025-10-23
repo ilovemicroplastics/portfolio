@@ -20,7 +20,7 @@ This gave me practical experience with electronics, micro-controller programming
 # Ontological
 [Ribbit Archive.](https://ilovemicroplastics.github.io/ribbit-archive/)
 This is a website I'm working on to document interesing OSH designs I come across.
-The website is written using Hugo, which means that writing a new article is as simple as writing a markdown document and the rest is handled by the template (which is custom, took a few days because I'm not a web dev.)
+The website is written using Hugo, which means that writing a new article is as simple as writing a markdown document and the rest is handled by the template (which is custom, took a few days because I'm not a web dev).
 I think they have a lot of underapreciated value, not only for their intended usage; but also for inspiration when creating new robot designs.
 The website is very self explanatory, but it doesn't explain the frog icon.
 I drew it myself, and I'm happy with how it looks (rare for art).

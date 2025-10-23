@@ -4,7 +4,7 @@ This controls a robot called the OpenScout, although admittedly I would consider
 
 [OpenScout Gazebo Simulation.](https://github.com/ilovemicroplastics/OpenScoutV1-1/tree/main/Software/simulation/openscout_ws)
 It was created jointly with a colleague from university. Ahmad prepared the CAD model, whilst I (Bartosz) did the programming.
-The simulation looks very clean but isn't accurate to real physics owing to the fact that it uses skid steering, which is hard to implement.
+The simulation looks very clean but isn't accurate to real physics owing to the fact that it uses skid steering, which is hard to implement in a simulation.
 I have a lot to say about this, but to make a long story short: this wasn't an easy project and I'm happy with the result.
 
 # Physical Robotics

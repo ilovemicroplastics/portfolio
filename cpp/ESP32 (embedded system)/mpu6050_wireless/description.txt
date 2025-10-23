@@ -1,0 +1,6 @@
+Combines wireless test and mpu6050 programs.
+This achieves mpu readings over wifi by TCP/IP.
+
+Remember:
+The port can be changed.
+The IP address has to match recipient device.
